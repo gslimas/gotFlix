@@ -10,7 +10,7 @@ function App() {
       </Menu>
         <BannerMain videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"HELLO THERE MATE"}>
+        videoDescription={"Quem é a mãe do Jon Snow? Teoria antiga que foi confirmada."}>
 
         </BannerMain>
 
